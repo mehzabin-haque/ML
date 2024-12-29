@@ -1,0 +1,2 @@
+*.npy
+fasttext_embeddings.model.wv.vectors_ngrams.npy
